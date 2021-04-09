@@ -1,6 +1,6 @@
 [
  {
-    "repository": "AOSPK-Devices/android_device_samsung_sdm845-common",
+    "repository": "AOSPK-Devices/device_samsung_sdm845-common",
     "target_path": "device/samsung/sdm845-common"
   }
 ]
