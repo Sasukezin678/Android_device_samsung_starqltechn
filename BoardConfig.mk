@@ -27,5 +27,5 @@ TARGET_OTA_ASSERT_DEVICE := starqltechn
 TARGET_KERNEL_CONFIG := starqlte_chn_open_defconfig
 
 # Vendor init
-TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_starqltechn
-TARGET_RECOVERY_DEVICE_MODULES := libinit_starqltechn
+TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):init_samsung_starqltechn
+TARGET_RECOVERY_DEVICE_MODULES := init_samsung_starqltechn
