@@ -20,6 +20,7 @@
 
 DEVICE_PATH := device/samsung/starqltechn
 
+# SELINUX
 # Assert
 TARGET_OTA_ASSERT_DEVICE := starqltechn
 
